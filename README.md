@@ -1,1 +1,1 @@
-# github-fundamentals
+Hi, I’m Srushti Myakal, a 3rd Semester B.Tech Computer Science and Information Technology student at REVA University. This repository is created to practice GitHub fundamentals, Git commands, commits, and version control as part of my Portfolio Building activity.
