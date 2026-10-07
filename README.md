@@ -2,3 +2,4 @@ Hi, I’m Srushti Myakal, a 3rd Semester B.Tech Computer Science and Information
 Learning Python and C programming
 Interested in software development
 Goal: become a Software Developer
+
